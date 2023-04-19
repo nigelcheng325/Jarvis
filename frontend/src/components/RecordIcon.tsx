@@ -1,3 +1,4 @@
+export {};
 import React from "react";
 
 type Props = {
@@ -22,7 +23,6 @@ function RecordIcon({ classText }: Props) {
         />
       </svg>
     </>
-  
   );
 }
 
